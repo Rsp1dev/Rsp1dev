@@ -4,9 +4,9 @@ Mi nombre es Ruben Soto, sociólogo y desarrollador full stack. Apasionado por l
 
 My name is Ruben Soto, sociologist and full stack developer. Passionated about tecnology, music and sports. Cooking and animal lover.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=dark)](https://github.com/Rsp1dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=cobalt)](https://github.com/Rsp1dev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades tecnicas | Technical skills
 
