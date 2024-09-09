@@ -1,9 +1,5 @@
 ## Hola a todos | Hello everyone 👋
 
-Mi nombre es Ruben Soto, sociólogo y desarrollador full stack. Apasionado por la tecnología, la música y deportes. Amante de los animales y la cocina.
-
-My name is Ruben Soto, sociologist and full stack developer. Passionated about tecnology, music and sports. Cooking and animal lover.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=tokyonight)](https://github.com/Rsp1dev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
