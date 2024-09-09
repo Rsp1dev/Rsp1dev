@@ -2,11 +2,10 @@
 
 <img src="https://github.com/Rsp1dev/imgprofile/blob/main/gif/The%20Future%20is%20Now%20-%20Nightfall.gif" width="100%"/>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-	
+<div style="display: flex; justify-content: space-between;">
   <!-- Stats generales -->
   <a href="https://github.com/Rsp1dev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=tokyonight" alt="GitHub stats" style="margin-right: 20px;" />
   </a>
 
   <!-- Top Langs -->
@@ -14,8 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsp1dev&theme=tokyonight&layout=compact" alt="Top Langs" />
   </a>
 </div>
-
-
 
 ## Habilidades tecnicas | Technical skills
 
