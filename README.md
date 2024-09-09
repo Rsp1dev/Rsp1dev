@@ -4,6 +4,10 @@ Mi nombre es Ruben Soto, sociólogo y desarrollador full stack. Apasionado por l
 
 My name is Ruben Soto, sociologist and full stack developer. Passionated about tecnology, music and sports. Cooking and animal lover.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=dark)](https://github.com/Rsp1dev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Habilidades tecnicas | Technical skills
 
 <div align="center">
@@ -29,7 +33,3 @@ My name is Ruben Soto, sociologist and full stack developer. Passionated about t
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true)](https://github.com/Rsp1dev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rsp1dev)](https://github.com/Rsp1dev/github-readme-stats)
