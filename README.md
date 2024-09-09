@@ -1,6 +1,6 @@
 ## Hola a todos | Hello everyone 👋
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+<img src="" width="100%"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsp1dev&show_icons=true&theme=tokyonight)](https://github.com/Rsp1dev/github-readme-stats)
 
