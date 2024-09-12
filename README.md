@@ -1,6 +1,6 @@
 ## Hola a todos | Hello everyone 👋
 
-Mi nombre es Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente.
+Mi nombre es Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente. Me gusta adquirir conocimientos de manera constante sobre tecnologias.
 
 ## Experiencia | Educación 👨🏻‍💻
 
