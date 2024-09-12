@@ -1,5 +1,18 @@
 ## Hola a todos | Hello everyone 👋
 
+Mi nombre es Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente.
+
+## Experiencia | Educación 👨🏻‍💻
+
+* Sociólogo - Universidad de Playa Ancha
+
+### Cursos | Bootcamps
+
+* Fundamentos de Big Data - LinkedIn Learning
+* Analisis de Datos con Python - IBM
+* Desarollo de Aplicaciones Web Full Stack Python Trainee - Programa Talento Digital para Chile
+
+
 <img src="https://github.com/Rsp1dev/imgprofile/blob/main/gif/The%20Future%20is%20Now%20-%20Nightfall.gif" width="100%"/>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -47,6 +60,5 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 </div>
 
-## Proyectos Destacados | Main Projects 💼
-
+## Proyectos Principales | Main Projects 💼
 
