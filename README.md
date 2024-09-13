@@ -1,13 +1,16 @@
 ## Hola a todos | Hello everyone 👋
 
-Mi nombre es Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente. Me gusta adquirir conocimientos de manera constante sobre tecnologias.
+Soy Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente. Apasionado por la tecnología, música y deportes. Amante de los animales y la cocina.
 
 ## Experiencia | Educación 👨🏻‍💻
 
+### Experiencia
+
+* Freelance (2021 - actualidad )
+
+### Estudios | Cursos | Bootcamps
+
 * Sociólogo - Universidad de Playa Ancha
-
-### Cursos | Bootcamps
-
 * Fundamentos de Big Data - LinkedIn Learning
 * Analisis de Datos con Python - IBM
 * Desarollo de Aplicaciones Web Full Stack Python Trainee - Programa Talento Digital para Chile
@@ -34,7 +37,7 @@ Mi nombre es Rubén Soto, sociólogo, desarrollador full stack, analista de dato
   </tr>
 </table>
 
-## Habilidades tecnicas | Technical skills
+## Habilidades tecnicas | Technical skills 
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -62,3 +65,20 @@ Mi nombre es Rubén Soto, sociólogo, desarrollador full stack, analista de dato
 
 ## Proyectos Principales | Main Projects 💼
 
+#### Viajes Chile
+
+<img src="https://github.com/Rsp1dev/Rsp1dev/blob/main/viajes_chile.png" width="70%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visitar-D291FF?logo=github&logoColor=white&label=GitHub&labelColor=D291FF&color=ADD8E6)](https://github.com/Rsp1dev/ViajesChile)
+
+#### Ricomida
+
+<img src="https://github.com/Rsp1dev/Rsp1dev/blob/main/ricomida.png" width="70%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visitar-D291FF?logo=github&logoColor=white&label=GitHub&labelColor=D291FF&color=ADD8E6)](https://github.com/Rsp1dev/ricomida)
+
+#### Arriendos Chile
+
+<img src="https://github.com/Rsp1dev/Rsp1dev/blob/main/arriendoscl.png" width="70%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visitar-D291FF?logo=github&logoColor=white&label=GitHub&labelColor=D291FF&color=ADD8E6)](https://github.com/Rsp1dev/arriendos_chile)
