@@ -69,16 +69,22 @@ Soy Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con ma
 
 <img src="https://github.com/Rsp1dev/Rsp1dev/blob/main/viajes_chile.png" width="70%"/>
 
+Sitio web de agencia de viajes dentro de Chile.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Visitar-D291FF?logo=github&logoColor=white&label=GitHub&labelColor=D291FF&color=ADD8E6)](https://github.com/Rsp1dev/ViajesChile)
 
 #### Ricomida
 
 <img src="https://github.com/Rsp1dev/Rsp1dev/blob/main/ricomida.png" width="70%"/>
 
+Sitio web de comida italiana, principalmente pizzas a la piedra.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Visitar-D291FF?logo=github&logoColor=white&label=GitHub&labelColor=D291FF&color=ADD8E6)](https://github.com/Rsp1dev/ricomida)
 
 #### Arriendos Chile
 
 <img src="https://github.com/Rsp1dev/Rsp1dev/blob/main/arriendoscl.png" width="70%"/>
+
+Aplicación web de sitio dedicado al arriendo y venta de bienes raices.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Visitar-D291FF?logo=github&logoColor=white&label=GitHub&labelColor=D291FF&color=ADD8E6)](https://github.com/Rsp1dev/arriendos_chile)
