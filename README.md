@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Rsp1dev/imgprofile/blob/main/img/banner_github.png" width="100%"/>
 
-Soy Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente. Apasionado por la tecnología, música y deportes. Amante de los animales y la cocina.
+Soy Rubén Soto, sociólogo, desarrollador full stack, analista de datos. Con mas de 2 años de experiencia como independiente. Apasionado por las tecnologías, música y deportes. Amante de los animales y la cocina.
 
 ## Experiencia | Educación 👨🏻‍💻
 
